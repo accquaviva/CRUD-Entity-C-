@@ -1,0 +1,17 @@
+C:\Users\Ponto\source\repos\CadastroSimples\CadastroSimples\bin\Debug\CadastroSimples.exe.config
+C:\Users\Ponto\source\repos\CadastroSimples\CadastroSimples\bin\Debug\CadastroSimples.exe
+C:\Users\Ponto\source\repos\CadastroSimples\CadastroSimples\bin\Debug\CadastroSimples.pdb
+C:\Users\Ponto\source\repos\CadastroSimples\CadastroSimples\bin\Debug\EntityFramework.dll
+C:\Users\Ponto\source\repos\CadastroSimples\CadastroSimples\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ponto\source\repos\CadastroSimples\CadastroSimples\bin\Debug\EntityFramework.xml
+C:\Users\Ponto\source\repos\CadastroSimples\CadastroSimples\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ponto\source\repos\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.csprojAssemblyReference.cache
+C:\Users\Ponto\source\repos\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.Form1.resources
+C:\Users\Ponto\source\repos\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.Properties.Resources.resources
+C:\Users\Ponto\source\repos\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.csproj.GenerateResource.cache
+C:\Users\Ponto\source\repos\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.csproj.CoreCompileInputs.cache
+C:\Users\Ponto\source\repos\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.csproj.CopyComplete
+C:\Users\Ponto\source\repos\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.exe
+C:\Users\Ponto\source\repos\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.pdb
+C:\Users\Ponto\source\repos\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.Tela.Alteracao.resources
+C:\Users\Ponto\source\repos\CadastroSimples\CadastroSimples\obj\Debug\CadastroSimples.Tela.Excluir.resources
